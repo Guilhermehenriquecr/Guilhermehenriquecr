@@ -1,5 +1,5 @@
 
-# 👋 Olá, Sou o Guilherme 
+# 👋 Olá, Sou o Guilherme Henrique
 
 ### 🎓  Graduando em Engenharia  de Produção na Universidade de Brasília | 📊 Analista de Estratégia Pleno  | 🔍 Entusiasta em Ciência de Dados e Otimização
 
