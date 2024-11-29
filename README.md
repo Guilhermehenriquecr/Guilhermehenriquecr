@@ -15,8 +15,8 @@
 
 ## 🌟 Habilidades Principais
 
-- **Linguagens:** Python (NumPy, pandas, matplotlib, scikit-learn, seaborn e Selenium) SQL.
-- **Ferramentas:** Power BI, Excel Avançado, Tableau.
+- **Linguagens:** Python (NumPy, pandas, matplotlib, scikit-learn, seaborn e Selenium) e SQL.
+- **Ferramentas:** Power BI, Excel, Tableau.
 - **Metodologias:** Green Belt Six Sigma, Scrum, Design Thinking.
 - **Áreas de Atuação:**  Análise de Dados, Otimização de Processos, Automação de Processos e de Tarefas Manuais.
 
