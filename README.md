@@ -1,14 +1,14 @@
 
 # 👋 Olá, Sou o Guilherme Henrique
 
-### 🎓  Graduando em Engenharia  de Produção na Universidade de Brasília | 📊 Analista de Estratégia Pleno  | 🔍 Entusiasta em Ciência de Dados e Otimização
+### 🎓  Engenheiro de Produção pela Universidade de Brasília | MBA em Pesquisa Operacional e Tomada de Decisão (em andamento) | Análise de  📊   | 🔍 Entusiasta em Ciência de Dados e Otimização
 
 ---
 
 ## 🛠 Sobre Mim
 
 - 🎓 **Formação:** Engenharia de Produção pela Universidade de Brasília (Último Período)
-- 🚀 **Objetivos para 2024/2025:** Dominar fundamentos matemáticos de otimização e ciência de dados, de modo a ter embasamento técnico para tomada de decisões mais sólidas.
+- 🚀 **Objetivos para 2025/2026:** Dominar fundamentos matemáticos voltados para otimização e ciência de dados, de modo a ter embasamento técnico para tomada de decisões mais sólidas na geração de maiores resultados.
 - 📍 **Interesses:** Ciência de Dados, Pesquisa Operacional, Modelagem Matemática e Automação de Processos
 
 ---
