@@ -1,7 +1,7 @@
 
 # 👋 Olá, Sou o Guilherme Henrique
 
-### 🎓  Engenheiro de Produção pela Universidade de Brasília | MBA em Pesquisa Operacional e Tomada de Decisão (em andamento) | Análise de Dados  📊   | 🔍 Entusiasta em Ciência de Dados e Otimização
+### 🎓  Engenheiro de Produção pela Universidade de Brasília | MBA em Pesquisa Operacional e Tomada de Decisão (em andamento) | Analista de Dados  📊   | 🔍 Entusiasta em Ciência de Dados e Otimização
 
 ---
 
@@ -17,8 +17,8 @@
 
 - **Linguagens:** Python (NumPy, pandas, matplotlib, scikit-learn, seaborn e Selenium) e SQL.
 - **Ferramentas:** Power BI, Excel, Tableau.
-- **Metodologias:** Green Belt Six Sigma, Scrum, Design Thinking.
-- **Áreas de Atuação:**  Análise de Dados, Otimização de Processos, Automação de Processos e de Tarefas Manuais.
+- **Metodologias:** Green Belt Six Sigma, Scrum, Design Thinking, Kanban e Agile.
+- **Áreas de Atuação:**  Análise de Dados, Otimização de Processos, Tomada de Decisão Automação de Processos e de Tarefas Manuais.
 
 ---
 
