@@ -1,7 +1,7 @@
 
 # 👋 Olá, Sou o Guilherme Henrique
 
-### 🎓  Engenheiro de Produção pela Universidade de Brasília | MBA em Pesquisa Operacional e Tomada de Decisão (em andamento) | Análise de  📊   | 🔍 Entusiasta em Ciência de Dados e Otimização
+### 🎓  Engenheiro de Produção pela Universidade de Brasília | MBA em Pesquisa Operacional e Tomada de Decisão (em andamento) | Análise de Dados  📊   | 🔍 Entusiasta em Ciência de Dados e Otimização
 
 ---
 
