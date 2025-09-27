@@ -7,8 +7,9 @@
 
 ## 🛠 Sobre Mim
 
-- 🎓 **Formação:** Engenharia de Produção pela Universidade de Brasília (Último Período)
-- 🚀 **Objetivos para 2025/2026:** Dominar fundamentos matemáticos voltados para otimização e ciência de dados, de modo a ter embasamento técnico para tomada de decisões mais sólidas na geração de maiores resultados.
+- 🎓 **Formação:** Engenharia de Produção pela Universidade de Brasília
+- Cursando Mestrado em Sistemas Mecatrônicos
+- - 🚀 **Objetivos para 2025/2026:** Dominar fundamentos matemáticos voltados para otimização e ciência de dados, de modo a ter embasamento técnico para tomada de decisões mais sólidas na geração de maiores resultados.
 - 📍 **Interesses:** Ciência de Dados, Pesquisa Operacional, Modelagem Matemática e Automação de Processos
 
 ---
